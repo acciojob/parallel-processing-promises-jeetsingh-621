@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+  #output img {
+        width: 150px;
+        height: auto;
+        margin: 10px;
+        display: inline-block;
+      }
+      #output p {
+        color: red;
+        font-weight: bold;
+      }
